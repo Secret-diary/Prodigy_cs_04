@@ -7,7 +7,15 @@ A keylogger is a type of software or hardware device designed to monitor and rec
 This Python code uses the pynput.keyboard library to create a simple keylogger. It listens for keyboard events, writes the pressed keys to a log file named keylog.txt, and formats the output for readability.
 
 
+
+## Requirements
+
+1. pynput Library: The code imports the Listener class from the pynput.keyboard module, which is part of the pynput library. You can install the pynput library using pip, the Python package manager.
+
+                   pip install pynput
+
 ## Usage
+
 
 1. To get the code
 
